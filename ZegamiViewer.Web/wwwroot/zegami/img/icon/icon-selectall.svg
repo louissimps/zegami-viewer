@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBoc="0 0 32 32">
+  <g fill="#D5D7D8" stroke="null" stroke-width=".8" stroke-linecap="round">
+    <g transform="matrix(.16892 0 0 .16856 87.098 203.837)">
+      <rect width="48.9" height="37.9" x="-514.3" y="-1074.5" ry="5.8"/>
+      <rect width="48.9" height="37.9" x="-444.4" y="-1074.5" ry="5.8"/>
+      <rect width="48.9" height="37.9" x="-374.6" y="-1074.5" ry="5.8"/>
+    </g>
+    <g transform="matrix(.16892 0 0 .16856 87.098 203.837)">
+      <rect width="48.9" height="37.9" x="-514.3" y="-1133.4" ry="5.8"/>
+      <rect width="48.9" height="37.9" x="-444.4" y="-1133.4" ry="5.8"/>
+      <rect width="48.9" height="37.9" x="-374.6" y="-1133.4" ry="5.8"/>
+    </g>
+    <g transform="matrix(.16892 0 0 .16856 87.098 203.837)">
+      <rect width="48.9" height="37.9" x="-514.3" y="-1192.3" ry="5.8"/>
+      <rect width="48.9" height="37.9" x="-444.4" y="-1192.3" ry="5.8"/>
+      <rect width="48.9" height="37.9" x="-374.6" y="-1192.3" ry="5.8"/>
+    </g>
+  </g>
+</svg>

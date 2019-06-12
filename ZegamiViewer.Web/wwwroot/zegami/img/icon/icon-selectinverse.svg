@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="27" viewBox="0 0 32 27">
+  <g stroke="#D5D7D8" stroke-width="5.9" transform="matrix(.16448 0 0 -.16448 85.073 199.06)" stroke-linecap="round">
+    <g fill="#D5D7D8" transform="matrix(1 0 0 -1 461.535 28.277)">
+      <rect width="48.9" height="37.9" x="-975.8" y="-1061.2" ry="5.8"/>
+      <rect width="48.9" height="37.9" x="-906" y="-1061.2" ry="5.8"/>
+      <rect width="48.9" height="37.9" x="-836.1" y="-1061.2" ry="5.8"/>
+    </g>
+    <rect width="48.9" height="37.9" x="-514.3" y="-1148.4" fill="#D5D7D8" transform="scale(1 -1)" ry="5.8"/>
+    <rect width="48.9" height="37.9" x="-374.6" y="-1148.4" fill="#D5D7D8" transform="scale(1 -1)" ry="5.8"/>
+    <rect width="48.9" height="37.9" x="-514.3" y="-1207.3" fill="#D5D7D8" transform="scale(1 -1)" ry="5.8"/>
+    <rect width="48.9" height="37.9" x="-444.4" y="-1207.3" fill="#D5D7D8" transform="scale(1 -1)" ry="5.8"/>
+    <rect width="48.9" height="37.9" x="-374.6" y="-1207.3" fill="#D5D7D8" transform="scale(1 -1)" ry="5.8"/>
+    <rect width="48.9" height="37.9" x="-444.4" y="-1148.4" fill="none" ry="5.8" transform="scale(1 -1)"/>
+  </g>
+</svg>

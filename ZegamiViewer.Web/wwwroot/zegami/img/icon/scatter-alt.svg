@@ -1,0 +1,31 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid meet">
+ <metadata id="metadata4556">image/svg+xml</metadata>
+
+ <style type="text/css">
+   <![CDATA[
+
+   path {
+     fill: #D5D7D8;
+   }
+
+   path:first-child {
+     stroke: #D5D7D8;
+     fill: none;
+   }
+   ]]>
+ </style>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="layer1">
+   <path stroke-width="15" stroke-miterlimit="4" id="path5814" d="m1.1345,0.13422l0,99.10436l98.36413,0"/>
+   <path stroke="null" d="m34.97135,36.38835a3.69351,4.26014 0 1 1 -7.38704,0a3.69351,4.26014 0 1 1 7.38704,0z" id="path5816"/>
+   <path stroke="null" d="m28.92381,76.69353a3.69351,4.26014 0 1 1 -7.38702,0a3.69351,4.26014 0 1 1 7.38702,0z" id="path5816-8"/>
+   <path stroke="null" d="m69.35928,39.98505a3.69351,4.26014 0 1 1 -7.38705,0a3.69351,4.26014 0 1 1 7.38705,0z" id="path5816-1"/>
+   <path stroke="null" d="m90.5947,40.60287a3.69351,4.26014 0 1 1 -7.38702,0a3.69351,4.26014 0 1 1 7.38702,0z" id="path5816-9"/>
+   <path stroke="null" d="m80.24543,10.83667a3.69351,4.26014 0 1 1 -7.38705,0a3.69351,4.26014 0 1 1 7.38705,0z" id="path5816-5"/>
+   <path stroke="null" d="m69.77988,64.57967a3.69351,4.26014 0 1 1 -7.38703,0a3.69351,4.26014 0 1 1 7.38703,0z" id="path5816-4"/>
+   <path stroke="null" d="m63.03345,26.60688a3.69351,4.26014 0 1 1 -7.38702,0a3.69351,4.26014 0 1 1 7.38702,0z" id="path5816-4-0"/>
+   <path stroke="null" d="m42.94907,63.9074a3.69351,4.26014 0 1 1 -7.38702,0a3.69351,4.26014 0 1 1 7.38702,0z" id="path5816-4-9"/>
+  </g>
+ </g>
+</svg>

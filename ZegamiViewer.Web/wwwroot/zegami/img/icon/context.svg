@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" fill="#CC78CE">
+	<g>
+		<rect width="8.5" height="8.5" x="0" y="0"></rect>
+		<rect width="8.5" height="8.5" x="0" y="10.75"></rect>
+		<rect width="8.5" height="8.5" x="0" y="21.5"></rect>
+		<rect width="8.5" height="8.5" x="10.75" y="0"></rect>
+		<rect width="8.5" height="8.5" x="10.75" y="10.75"></rect>
+		<rect width="8.5" height="8.5" x="10.75" y="21.5"></rect>
+		<rect width="8.5" height="8.5" x="21.5" y="0"></rect>
+		<rect width="8.5" height="8.5" x="21.5" y="10.75"></rect>
+		<rect width="8.5" height="8.5" x="21.5" y="21.5"></rect>
+	</g>
+</svg>

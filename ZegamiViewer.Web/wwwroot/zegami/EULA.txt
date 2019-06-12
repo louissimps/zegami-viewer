@@ -1,0 +1,278 @@
+1.	INTERPRETATION
+
+1.1	The definitions and rules of interpretation in this clause apply in this licence.
+Affiliate: includes, in relation to either party, each and any subsidiary or holding company of that party and each and any subsidiary of a holding company of that party.
+Commencement Date: the date of this licence, as set out in the Order, or if there is no Order (for example, where the Software is provided for free), the date on which the Software is downloaded.
+Initial Term: one year from the Commencement Date.
+Intellectual Property Rights: includes patents, utility models, rights to inventions, copyright and related rights, trade marks and service marks, trade names and domain names, rights in get-up, goodwill and the right to sue for passing off or unfair competition, rights in designs, rights in computer software, database rights, rights to preserve the confidentiality of information (including know-how and trade secrets) and any other intellectual property rights, including all applications for (and rights to apply for and be granted), renewals or extensions of, and rights to claim priority from, such rights and all similar or equivalent rights or forms of protection which subsist or will subsist, now or in the future, in any part of the world.
+Licensee: the party named in the Order, or if there is no Order (for example, where the Software is provided for free), the party on whose behalf this Licence is accepted by downloading and installing the Software.
+Licensor: Zegami Limited, incorporated and registered in England and Wales with company number 09853507, whose registered office is at Seacourt Tower, West Way, Oxford, United Kingdom, OX2 0FB.
+Maintenance Release: a release of the Software that corrects faults, adds functionality or otherwise amends or upgrades the Software, but which does not constitute a New Version.
+New Version: any new version of the Software which from time to time is publicly marketed and offered for purchase by the Licensor in the course of its normal business, being a version which contains such significant differences from the previous versions as to be generally accepted in the marketplace as constituting a new product.
+Open-Source Software: open-source software as defined by the Open Source Initiative (http://opensource.org) or the Free Software Foundation (http://www.fsf.org).
+Order: the Licensor's form setting out the particulars of the Software and other particulars, including user types and numbers, licence fee(s), and Standard Support Charges. 
+Renewal Term: one year from expiry of the Initial Term or any previous Renewal Term.
+Site: the premises from which the Licensee carries out its business as notified to the Licensor in writing from time to time.
+Software: the software known as 'ZEGAMI' and any Maintenance Release which is acquired by the Licensee during the subsistence of this licence.
+Support: the support of the Software as set out in the Schedule.
+Support Charges: The 'Standard Support Charges' and 'Additional Support Charges' specified in the Schedule and payable in accordance with the Schedule.
+Term: means the duration of this licence, including the Initial Term and all subsequent Renewal Terms.
+
+1.2	Holding company and subsidiary mean a "holding company" and "subsidiary" as defined in section 1159 of the Companies Act 2006.
+
+1.3	Clause, Schedule and paragraph headings shall not affect the interpretation of this licence.
+
+1.4	Unless the context otherwise requires:
+    (a)	words in the singular shall include the plural and in the plural shall include the singular;
+    (b)	A reference to a statute or statutory provision is a reference to it as amended, extended or re-enacted from time to time;
+    (c)	a reference to one gender shall include a reference to the other genders; and
+    (d)	any words following the terms including, include, in particular, for example or any similar expression shall be construed as illustrative and shall not limit the sense of the words, description, definition, phrase or term preceding those terms.
+
+1.5	A person includes a natural person, corporate or unincorporated body (whether or not having separate legal personality) and that person's personal representatives, successors and permitted assigns.
+
+1.6	References to clauses and Schedules are to the clauses and Schedules of this licence and references to paragraphs are to paragraphs of the relevant Schedule.
+
+1.7	Any Schedules and Annexes which form part of this licence and shall have effect as if set out in full in the body of this licence. Any reference to this licence includes any Schedules and Annexes.
+
+2.	DELIVERY & LICENCE
+
+2.1	The Licensor shall deliver the Software electronically to the Licensee within 30 days of the Order (where applicable) or otherwise as determined by the Licensor. Risk in any tangible media on which the Software is delivered shall pass on delivery.
+
+2.2	Subject to payment of all sums due to the Licensor within 30 days of invoice, the Licensor grants to the Licensee a non-exclusive licence for the Term to use the Software. In relation to scope of use:
+    (a)	the Licensee shall be entitled to receive the number and types of copies of the Software specified in the Order, together with any associated documentation.
+    (b)	the Licensee may use the Software server application on one application server, where the licence is 'per named user version', for access by the associated client software limited to the number of named user licences purchased and/or subject to any other licensing restrictions or conditions specified in the Order.
+    (c)	use of the Software shall be restricted to use of the Software in object code form for the normal business purposes of the Licensee (which shall not include allowing the use of the Software by, or for the benefit of, any person other than an employee or representative of the Licensee).
+    (d)	"use of the Software" means loading and installing the Software, utilisation of the Software by copying, transmitting or loading the same into the temporary memory (RAM) or installing into the permanent memory (e.g.  hard disk, CD ROM or other storage device) for the processing of the system instructions or statements contained in such Software, copying for back-up provided that no more than two (2) copies will be in existence under at any one time without prior written consent from the Licensor or as otherwise permitted by the applicable law, and use of the Software via a hosted web service (accessed via a web browser).
+    (e)	except as expressly permitted in this licence, the Licensee has no right (and shall not permit any third party) to copy, adapt, reverse engineer, decompile, disassemble, modify, adapt or make error corrections to the Software in whole or in part except to the extent that any reduction of the Software to human readable form (whether by reverse engineering, decompilation or disassembly) is necessary for the purpose of integrating the operation of the Software with the operation of other software or systems used by the Licensee and provided the information obtained by the Licensee during such reduction is only used for that purpose and is not disclosed or communicated to any third party without the Licensor's prior written consent and is not used to create any software which is substantially similar to the Software nor used in any manner which would be restricted by copyright.
+    (f)	The Software incorporates Open-Source Software, which is subject to separate third party terms and conditions. The Licensee agrees to comply with all such terms and conditions to the extent applicable to its use of the Software.
+    (g)	the Licensee shall indemnify and hold the Licensor harmless against any loss or damage which it may suffer or incur as a result of the Licensee's breach of any Open-Source Software terms.
+
+2.3	In the event that the Licensee is a registered academic institution which has been granted a free version of the Software, the licence in clause 2.2 shall be limited to the HTML5 user interface and command line and the Software may only be used for academic, research, non-commercial purposes within the institution. In this event, no Support shall be provided and the Schedule shall not apply to this licence, and no warranties or guarantees are given in relation to the Software (including but not limited to those in clause 6.1, which shall not apply).
+
+2.4	The Licensee shall not:
+    (a)	sub-license, assign or novate the benefit or burden of this licence in whole or in part;
+    (b)	allow the Software to become the subject of any charge, lien or encumbrance; and
+    (c)	deal in any other manner with any or all of its rights and obligations under this licence, without the prior written consent of the Licensor, such consent not to be unreasonably withheld or delayed.
+
+2.5	The Licensor may at any time sub-license, assign, novate, charge or deal in any other manner with any or all of its rights and obligations under this licence, provided it gives written notice to the Licensee.
+
+2.6	The Licensee shall:
+    (a)	ensure that the number of persons using the Software does not exceed the number of user licences purchased by the Licensee;
+    (b)	keep a complete and accurate record of the Licensee's copying and disclosure of the Software and its users, and produce such record to the Licensor on request from time to time;
+    (c)	notify the Licensor as soon as it becomes aware of any unauthorised use of the Software by any person and pay for broadening the scope of the licences granted under this licence to cover the unauthorised use, an amount equal to the fees which the Licensor would have levied (in accordance with its normal commercial terms then current) had it licensed any such unauthorised use on the date when such use commenced.
+
+2.7	The Licensee shall permit the Licensor to inspect and have access to any premises (and to the computer equipment located there) at or on which the Software is being kept or used, and have access to any records kept in connection with this licence, for the purposes of ensuring that the Licensee is complying with the terms of this licence, provided that the Licensor provides reasonable advance notice to the Licensee of such inspections, which shall take place at reasonable times.
+
+3.	SUPPORT & MAINTENANCE RELEASES
+
+3.1	The Licensor shall provide the Support in accordance with the terms of this licence and with all due skill and care.
+
+3.2	The Licensor will provide the Licensee with all Maintenance Releases generally made available to its customers. The Licensor warrants that no Maintenance Release will adversely affect the then existing facilities or functions of the Software. The Licensee shall install all Maintenance Releases as soon as reasonably practicable after receipt. The Licensor shall be excused from any obligation to provide Support to the extent that any issue arises from the Licensee's failure to install a Maintenance Release in accordance with this clause.
+
+4.	FEES
+
+4.1	The Licensee shall pay to the Licensor the applicable licence fee(s) for the Software, annually in advance. On each anniversary of this licence, unless the licence is terminated in accordance with its terms, the Licensee shall pay the then current licence fee(s) for the ongoing licence of the Software.
+
+4.2	The Licensee shall pay the Support Charges in accordance with the Schedule.
+
+4.3	All sums payable under this licence are exclusive of VAT or any relevant local sales taxes, for which the Licensee shall be responsible.
+
+4.4	If the Licensee fails to make any payment due to the Licensor under this licence by the due date for payment, then the Licensee shall pay interest on the overdue amount at the rate of 4% per annum above the Bank of England's base rate from time to time. Such interest shall accrue on a daily basis from the due date until actual payment of the overdue amount, whether before or after judgment. The Licensee shall pay the interest together with the overdue amount.
+
+5.	CONFIDENTIALITY AND PUBLICITY
+
+5.1	Each party shall, during the term of this licence and thereafter, keep confidential all, and shall not use for its own purposes (other than implementation of this licence) nor without the prior written consent of the other disclose to any third party (except its professional advisors or as may be required by any law or any legal or regulatory authority) any, information of a confidential nature (including trade secrets and information of commercial value) which may become known to such party from the other party and which relates to the other party or any of its Affiliates, unless that information is public knowledge or already known to such party at the time of disclosure, or subsequently becomes public knowledge other than by breach of this licence, or subsequently comes lawfully into the possession of such party from a third party. Each party shall use its reasonable endeavours to prevent the unauthorised disclosure of any such information.
+
+5.2	All information, data, drawings, specifications, documentation, software listings, source or object code which the Licensor may have imparted and may from time to time impart to the Licensee relating to the Software is proprietary and confidential.  The Licensee hereby agrees that it shall use the same solely in accordance with the provisions of this licence and that it shall not at any time during or after expiry or termination of this licence, disclose the same, whether directly or indirectly, to any third party without the Licensor's prior written consent.
+
+5.3	The Licensee acknowledges and agrees that the Licensor may collect anonymous usage data and error logs transmitted via the Software from time to time and use this for analysis, research, product development and other purposes in connection with the Licensor's business.
+
+6.	LICENSOR'S WARRANTIES
+
+6.1	The Licensor warrants that the Software will conform in all material respects to its specification (as set out in accompanying product manuals) for a period of 90 days from the Commencement Date (Warranty Period). If, within the Warranty Period, the Licensee notifies the Licensor in writing of any defect or fault in the Software in consequence of which it fails to conform in all material respects to its specification, and such defect or fault does not result from the Licensee, or anyone acting with the authority of the Licensee, having amended the Software or used it outside the terms of this licence for a purpose or in a context other than the purpose or context for which it was designed or in combination with any other software not provided by the Licensor, or it has not been loaded onto Licensor-specified or suitably configured equipment, the Licensor shall, at the Licensor's option, do one of the following:
+    (a)	repair the Software;
+    (b)	replace the Software; or
+    (c)	terminate this licence immediately by notice in writing to the Licensee and refund any of the Fee paid by the Licensee as at the date of termination (less a reasonable sum in respect of the Licensee's use of the Software to the date of termination) on return of the Software and all copies thereof, provided the Licensee provides all the information that may be necessary to assist the Licensor in resolving the defect or fault, including a documented example of any defect or fault, or sufficient information to enable the Licensor to re-create the defect or fault. 
+
+6.2	The Licensor does not warrant that the use of the Software will be uninterrupted or error-free.
+
+6.3	The Licensee accepts responsibility for the selection of the Software to achieve its intended results and acknowledges that the Software has not been developed to meet the individual requirements of the Licensee.
+
+6.4	The Licensee acknowledges that any Open-Source Software provided by the Licensor is provided "as is" and expressly subject to the disclaimer in clause 6.5.
+
+6.5	All other conditions, warranties or other terms which might have effect between the parties or be implied or incorporated into this licence, whether by statute, common law or otherwise, are hereby excluded to the fullest extent permissible by law.
+
+7.	LIABILITY
+
+7.1	Except as expressly stated in clause 7.2:
+    (a)	the Licensor shall not in any circumstances have any liability for any losses or damages which may be suffered by the Licensee (or any person claiming under or through the Licensee), whether the same are suffered directly or indirectly or are immediate or consequential, and whether the same arise in contract, tort (including negligence) or otherwise howsoever, which fall within any of the following categories:
+        (i)	special damage even if the Licensor was aware of the circumstances in which such special damage could arise;
+        (ii)	loss of profits;
+        (iii)	loss of anticipated savings;
+        (iv)	loss of business opportunity;
+        (v)	loss of goodwill;
+        (vi)	loss or corruption of data; or
+        (vii)	any indirect or consequential losses.
+    (b)	the total liability of the Licensor, whether in contract, tort (including negligence) or otherwise and whether in connection with this licence, shall in each 12-month period of the Term be limited to a sum equal to the licence fee(s) paid or payable by the Licensee during that 12-month period.
+
+7.2	The exclusions in clause 6.5 and clause 7.1 shall apply to the fullest extent permissible at law, but the Licensor does not exclude liability for:
+    (a)	death or personal injury caused by the negligence of the Licensor, its officers, employees, contractors or agents;
+    (b)	fraud or fraudulent misrepresentation;
+    (c)	breach of the obligations implied by section 12 of the Sale of Goods Act 1979 or section 2 of the Supply of Goods and Services Act 1982; or
+    (d)	any other liability which may not be excluded by law.
+
+8.	INTELLECTUAL PROPERTY RIGHTS
+
+8.1	The Licensee acknowledges that all Intellectual Property Rights in the Software and any Maintenance Releases belong and shall belong to the Licensor or the relevant third-party owners (as the case may be), and the Licensee shall have no rights in or to the Software other than the right to use it in accordance with the terms of this licence.
+
+8.2	The Licensor undertakes at its own expense to defend the Licensee or, at its option, settle any claim or action brought against the Licensee alleging that the possession or use of the Software (or any part thereof, excluding any Open-Source Software) in accordance with the terms of this licence infringes the UK Intellectual Property Rights of a third party (Claim) and shall be responsible for any reasonable losses, damages, costs (including legal fees) and expenses incurred by or awarded against the Licensee as a result of or in connection with any such Claim. For the avoidance of doubt, the indemnity in this clause shall not apply where the Claim in question is attributable to possession or use of the Software (or any part thereof) by the Licensee other than in accordance with the terms of this licence, use of the Software in combination with any hardware or software not supplied or specified by the Licensor if the infringement would have been avoided by the use of the Software not so combined, or use of a non-current release of the Software (including due to the Licensee's failure to install a Maintenance Release).
+
+8.3	If any third party makes a Claim, or notifies an intention to make a Claim against the Licensee, the Licensor's obligations under clause 8.2 are conditional on the Licensee:
+    (a)	as soon as reasonably practicable, giving written notice of the Claim to the Licensor, specifying the nature of the Claim in reasonable detail;
+    (b)	not making any admission of liability, agreement or compromise in relation to the Claim without the prior written consent of the Licensor (such consent not to be unreasonably conditioned, withheld or delayed);
+    (c)	giving the Licensor and its professional advisers access at reasonable times (on reasonable prior notice) to its premises and its officers, directors, employees, agents, representatives or advisers, and to any relevant assets, accounts, documents and records within the power or control of the Licensee, so as to enable the Licensor and its professional advisers to examine them and to take copies (at the Licensor's expense) for the purpose of assessing the Claim; and
+    (d)	giving the Licensor full conduct of the Claim.
+
+8.4	If any Claim is made, or in the Licensor's reasonable opinion is likely to be made, against the Licensee, the Licensor may at its sole option and expense:
+    (a)	procure for the Licensee the right to continue to use the Software (or any part thereof) in accordance with the terms of this licence;
+    (b)	modify the Software so that it ceases to be infringing;
+    (c)	replace the Software with non-infringing software; or
+    (d)	terminate this licence immediately by notice in writing to the Licensee and refund any of the Fee paid by the Licensee as at the date of termination (less a reasonable sum in respect of the Licensee's use of the Software to the date of termination) on return of the Software and all copies thereof.
+
+8.5	This clause 8 constitutes the Licensee's exclusive remedy and the Licensor's only liability in respect of Claims and, for the avoidance of doubt, is subject to clause 7.1.
+
+9.	DURATION AND TERMINATION
+
+9.1	This licence shall commence on the Commencement Date and continue for the Initial Term. Thereafter, it shall automatically renew for successive Renewal Terms, unless and until terminated by either party giving to the other no less than 90 days' notice, such notice to expire at the end of the Initial Term or the then current Renewal Term.
+
+9.2	Without affecting any other right or remedy available to it, either party may terminate this licence with immediate effect by giving written notice to the other party if:
+    (a)	the other party fails to pay any amount due under this licence on the due date for payment and remains in default not less than 14 days after being notified in writing to make such payment;
+    (b)	the other party commits a material breach of any other term of this licence which breach is irremediable or (if such breach is remediable) fails to remedy that breach within a period of 30 days after being notified in writing to do so;
+    (c)	the other party takes any step or action in connection with its entering administration, provisional liquidation or any composition or arrangement with its creditors (other than in relation to a solvent restructuring), being wound up (whether voluntarily or by order of the court, unless for the purpose of a solvent restructuring), having a receiver appointed to any of its assets or ceasing to carry on business or, if the step or action is taken in another jurisdiction, in connection with any analogous procedure in the relevant jurisdiction;
+    (d)	the other party suspends or ceases, or threatens to suspend or cease, carrying on all or a substantial part of its business.
+
+9.3	Termination or expiry of this licence shall not affect any rights, remedies, obligations or liabilities of the parties that have accrued up to the date of termination or expiry, including the right to claim damages in respect of any breach of the licence which existed at or before the date of termination or expiry.
+
+9.4	On termination for any reason:
+    (a)	all rights granted to the Licensee under this licence shall cease;
+    (b)	the Licensee shall cease all activities authorised by this licence;
+    (c)	the Licensee shall immediately pay to the Licensor any sums due to the Licensor under this licence; and
+    (d)	the Licensor shall be excused from any obligations under this licence to provide Support or any other services and the functionality of the Software shall be disabled. The Licensee shall, if required by the Licensor, immediately destroy or return to the Licensor (at the Licensor's option) all copies of the Software then in its possession, custody or control.
+
+9.5	Any provision of this licence which expressly or by implication is intended to come into or continue in force on or after termination of this licence including clause 1, clause 5, clause 6 (except clause 6.1), clause 7, clause 8, and clause 9 shall remain in full force and effect.
+
+10.	WAIVER
+No failure or delay by a party to exercise any right or remedy provided under this licence or by law shall constitute a waiver of that or any other right or remedy, nor shall it prevent or restrict the further exercise of that or any other right or remedy. No single or partial exercise of such right or remedy shall prevent or restrict the further exercise of that or any other right or remedy.
+
+11.	REMEDIES
+Except as expressly provided in this licence, the rights and remedies provided under this licence are in addition to, and not exclusive of, any rights or remedies provided by law.
+
+12.	ENTIRE AGREEMENT
+
+12.1	This licence contains the whole agreement between the parties relating to the subject matter hereof and supersede all prior agreements, arrangements and understandings between the parties relating to that subject matter.
+
+12.2	Each party acknowledges that, in entering into this licence, it does not rely on any statement, representation, assurance or warranty (whether it was made negligently or innocently) of any person (whether a party to this licence or not) other than as expressly set out in this licence.
+
+12.3	Nothing in this clause shall limit or exclude any liability for fraud.
+
+13.	VARIATION
+No variation of this licence shall be effective unless it is in writing and signed by the parties (or their authorised representatives).
+
+14.	SEVERANCE
+
+14.1	If any provision or part-provision of this licence is or becomes invalid, illegal or unenforceable, it shall be deemed modified to the minimum extent necessary to make it valid, legal and enforceable. If such modification is not possible, the relevant provision or part-provision shall be deemed deleted. Any modification to or deletion of a provision or part-provision under this clause shall not affect the validity and enforceability of the rest of this licence.
+
+14.2	If any provision or part-provision of this licence is invalid, illegal or unenforceable, the parties shall negotiate in good faith to amend such provision so that, as amended, it is legal, valid and enforceable, and, to the greatest extent possible, achieves the intended commercial result of the original provision.
+
+15.	COUNTERPARTS
+This licence may be executed in any number of counterparts, each of which when executed shall constitute a duplicate original, but all the counterparts shall together constitute the one agreement.
+
+16.	THIRD-PARTY RIGHTS
+A person who is not a party to this licence shall not have any rights under the Contracts (Rights of Third Parties) Act 1999 to enforce any term of this licence, but this does not affect any right or remedy of a third party which exists, or is available, apart from that Act.
+
+17.	NO PARTNERSHIP OR AGENCY
+Nothing in this licence is intended to, or shall be deemed to, establish any partnership or joint venture between any of the parties, constitute any party the agent of another party, or authorise any party to make or enter into any commitments for or on behalf of any other party.
+
+18.	FORCE MAJEURE
+
+Neither party shall be in breach of this licence nor liable for delay in performing, or failure to perform, any of its obligations under this licence if such delay or failure result from events, circumstances or causes beyond its reasonable control. In such circumstances the affected party shall be entitled to a reasonable extension of the time for performing such obligations. If the period of delay or non-performance continues for four weeks, the party not affected may terminate this licence by giving 30 days' written notice to the affected party.
+
+19.	NOTICES
+
+19.1	Any notice given to a party under or in connection with this contract shall be in writing and shall be:
+    (a)	delivered by hand or by pre-paid first-class post or other next working day delivery service at its registered office (if a company) or its principal place of business (in any other case); or 
+    (b)	sent by email to its nominated email address.
+
+19.2	Any notice shall be deemed to have been received:
+    (a)	if delivered by hand, on signature of a delivery receipt or at the time the notice is left at the proper address;
+    (b)	if sent by pre-paid first-class post or other next working day delivery service, at 9.00 am on the second Business Day after posting [or at the time recorded by the delivery service.
+    (c)	if sent by email, at 9.00 am on the next Business Day after transmission.
+
+19.3	This clause does not apply to the service of any proceedings or other documents in any legal action or, where applicable, any arbitration or other method of dispute resolution. For the purposes of this clause, "writing" shall not include e-mail.
+
+20.	GOVERNING LAW AND JURISDICTION
+
+20.1	This licence and any dispute or claim arising out of or in connection with it or its subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the law of England and Wales.
+
+20.2	The parties irrevocably agree that the courts of England and Wales shall have exclusive jurisdiction to settle any dispute or claim that arises out of or in connection with this licence or its subject matter or formation (including non-contractual disputes or claims).
+
+Schedule 1	Support
+In this Schedule, references to "we, our, us" means the Licensor and references to "you, your" means the Licensee.
+In consideration for the Licensee's payment of the support fees, the Licensor shall provide the following Support:
+
+1. Standard Support:
+
+1.1 Standard Support is available from 09:30 to 17:30 GMT/BST on Monday to Friday, excluding bank or public holidays in England (Standard Hours).
+
+1.2 Standard Support comprises:
+    * Hotline Support to help you overcome a problem which is preventing you from using the Software, or as a result of which the Software is not performing properly - such as defective Software distribution media, or Software performance inconsistent with documentation.
+    * Correction of critical errors or assistance to overcome specific Software problems. We may, in our sole discretion, correct these either by a Maintenance Release or by a New Version.
+    * Maintenance Releases of the Software as and when issued.
+    * Information on availability of new versions, enhancements and modifications of the Software.
+
+1.3 To get Hotline Support you must contact us by email at help@zegami.com or using other contact details provided to you from time to time, give us sufficient information to enable us to reproduce the problem, and confirm in writing (by email) within 48 hours any reports submitted by you orally.
+
+1.4 When the Hotline Support is used for general advice regarding the use of the Software we reserve the right to treat this service as Additional Support, and to charge accordingly. You will be informed before any charges are incurred.
+
+2. Additional Support
+
+2.1 The following are excluded from Standard Support and may, if we agree, be dealt with via the provision of Additional Support:
+    * Any support we may give of other software, accessories, attachments, machines, systems or other devices excluding the Software.
+    * Any attempts to rectify lost or corrupted data (whether or not successful).
+    * Support required due to any changes, alterations, additions, modifications or variations to the Software, your system or operating environment.
+    * Faults caused by use of the Software outside design or other specifications, or outside the provisions laid down in any documentation or manual supplied with the Software.
+    * Faults, defects or issues caused by use of a non-current version of the Software (for example, due to your failure to install a Maintenance Release issued by us).
+    * Diagnosis and/or rectification of problems not associated with the Software.
+    * Support required or made more difficult because of any failure of you to maintain adequate backups.
+    * Any Support we give outside our Standard Hours, and any other support we may from time to time agree to provide.
+
+3. Standard of service
+
+3.1 We warrant that:
+    * We will use all reasonable endeavours to respond to you within 4 hours (although we do not guarantee that we will be able to do so on each and every occasion), and we will attempt to help you to solve problems as soon as reasonably practicable, and with a minimum of disruption to your own work.
+    * We will, wherever possible, give an estimate of how long a problem may take to resolve.
+
+4. Support Charges
+
+4.1 Standard Support Charges (as set out in the Order) are payable in advance upon receipt of invoice. We are under no obligation to provide Support until payment has been received by us.
+
+4.2 Additional Support Charges are payable within 30 days after receipt of invoice. These will be calculated using our standard published Additional Support rates.
+
+4.3 Standard Support Charges and Additional Support Charges are:
+    * subject to review no more than once per annum upon 30 days' prior written notice from us,
+    * subject to variation upon issue to you of new versions of the Software or on other changes in the support particulars.
+Any such increase shall affect this licence upon expiry of the 30 day notice period (in the case of annual review), and immediately in any other case.
+
+4.4 If any of our invoices become overdue we will not be obliged to provide any support to you (whether Standard or Additional) until all overdue invoices and any interest thereon is paid, but we shall not be obliged to give you any credit in respect of any time whilst our support is suspended.
+
+5. Undertakings by You
+
+5.1 You undertake:
+    * that you will ensure your employees are adequately trained in the correct use of the Software,
+    * that when requested, you will comply with our reasonable instructions concerning the use, modification, control, and testing of the Software (including, where appropriate, operational and environmental conditions),
+    * that you will provide all necessary assistance and information to enable us to provide the Support.
+    * that, where required for the proper performance of our duties under this licence, you will give us such access as may in our opinion be necessary to your premises, facilities, and systems.
+
+6. Subcontracting
+
+6.1 We may authorise a distributor, dealer, service centre or other third party support organisation to provide the Support and/or to invoice you for and collect the charges specified in this licence as our designated representative. Such authorisation may be in the form of a sub-contract or other arrangement deemed appropriate by us.

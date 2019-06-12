@@ -1,0 +1,110 @@
+﻿* {
+    outline-color: transparent;
+}
+
+.src-components-Toolbar-toolbar-actionIcons {
+    padding-bottom: 0 !important;
+}
+
+.src-components-Toolbar-toolbar-imageHolder {
+    display: none !important;
+}
+
+.src-components-Toolbar-toolbar-inverted.src-components-Toolbar-toolbar-toolbar {
+    box-shadow: 2px 0 0 0 white, 3px 0 0 0 #33445b;
+    margin-right: 3px;
+}
+
+.src-components-SortBy-sortby-sortby,
+.src-components-Toolbar-toolbar-inverted.src-components-Toolbar-toolbar-toolbar,
+.src-components-ViewerHeader-viewerHeader-wrapper,
+.src-containers-SlidingPanel-slidingpanel-inverted.src-containers-SlidingPanel-slidingpanel-panel {
+    background-color: #33445b !important;
+}
+
+.src-components-Toolbar-toolbar-left {
+    width: 62px !important;
+}
+
+.src-components-Button-Button-button-button,
+.src-components-CategoryLink-categorylink-categorylink:hover div,
+.src-components-CategoryLink-categorylink-categorylink:hover span,
+.src-components-CategoryLink-categorylink-categorylink:hover {
+    color: black !important;
+    background-color: #b8c5d5 !important;
+}
+
+.src-components-Button-Button-button-button,
+.src-components-Icon-icon-toolbarIcon {
+    opacity: .5;
+}
+
+.src-components-Toolbar-toolbaritem-selected,
+.src-components-Button-IconButton-iconbutton-inverted.src-components-Button-IconButton-iconbutton-button:hover:not([disabled]):not(.src-components-Button-IconButton-iconbutton-active),
+.src-components-Button-base-active,
+.src-components-Icon-icon-selected {
+    background: linear-gradient(#212c3a, #58759c);
+}
+
+.src-components-Button-Button-button-button:hover,
+.src-components-Icon-icon-toolbarIcon:hover,
+.src-components-Icon-icon-selected {
+    opacity: 1;
+}
+
+.src-components-Button-base-active span,
+.src-components-ViewerHeader-viewerHeader-wrapper,
+.src-components-ViewerHeader-viewerHeader-wrapper span,
+.src-components-CategoryLink-categorylink-selected,
+.src-components-CategoryLink-categorylink-number,
+.src-panels-PanelTitle-paneltitle-panel,
+.node_modules-zegami-ui-forms-src-CheckBox-checkbox-inverted .node_modules-zegami-ui-forms-src-CheckBox-checkbox-icon.node_modules-zegami-ui-forms-src-CheckBox-checkbox-checked,
+.src-components-Icon-icon-selected .src-components-Icon-icon-label {
+    color: white;
+}
+
+.src-components-Button-base-active path,
+.src-components-CategoryLink-categorylink-icon path,
+.src-components-Icon-icon-selected path {
+    fill: white;
+}
+
+.src-components-CategoryLink-categorylink-categorylink:hover path{
+    fill: black;
+}
+
+.src-components-Button-IconButton-iconbutton-inverted.src-components-Button-IconButton-iconbutton-button,
+.src-components-Button-IconButton-iconbutton-button:hover:not([disabled]):not(.src-components-Button-IconButton-iconbutton-active) {
+    color: white;
+    border-color: white;
+    opacity: 1;
+}
+
+.src-components-Button-IconButton-iconbutton-inverted.src-components-Button-IconButton-iconbutton-button:not(.src-components-Button-IconButton-iconbutton-active) {
+    border-color: black;
+    opacity: .5;
+}
+
+.src-components-Sliders-slider-track {
+    background-color: #212c3a !important;
+}
+
+.src-components-Sliders-slider-filled {
+    background-color: #b8c5d5 !important;
+}
+
+.src-components-ViewerHeader-viewerHeader-wrapper {
+    box-shadow: 0 2px 0 0 white, 0 3px 0 0 #33445b;
+    margin-bottom: 3px;
+}
+
+.node_modules-zegami-ui-base-src-Small-small-font {
+    line-height: 15px;
+}
+
+.node_modules-zegami-ui-forms-src-CheckBox-checkbox-hasFocus .node_modules-zegami-ui-forms-src-CheckBox-checkbox-icon,
+.node_modules-zegami-ui-forms-src-CheckBox-checkbox-hasFocus .node_modules-zegami-ui-forms-src-CheckBox-checkbox-icon.node_modules-zegami-ui-forms-src-CheckBox-checkbox-border,
+.node_modules-zegami-ui-forms-src-CheckBox-checkbox-hasFocus .node_modules-zegami-ui-forms-src-CheckBox-checkbox-icon.node_modules-zegami-ui-forms-src-CheckBox-checkbox-checked {
+    outline-width: 0;
+    outline-offset: 0;
+}

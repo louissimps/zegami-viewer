@@ -1,0 +1,60 @@
+﻿<Properties StartupConfiguration="{8805F009-381D-487C-87AD-F74EDF4D4BA9}|Default">
+  <MonoDevelop.Ide.ItemProperties.ZegamiViewer.Web PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ZegamiViewer.Web/Pages/PersonnelLanguage.cshtml">
+    <Files>
+      <File FileName="ZegamiViewer.Web/Pages/Index.cshtml" Line="5" Column="1" />
+      <File FileName="ZegamiViewer.Web/Pages/_ViewStart.cshtml" />
+      <File FileName="ZegamiViewer.Web/Pages/Shared/_Layout.cshtml" Line="6" Column="12" />
+      <File FileName="ZegamiViewer.Web/wwwroot/zegami/Overrides.css" />
+      <File FileName="ZegamiViewer.Web/Pages/Shared/_ValidationScriptsPartial.cshtml" />
+      <File FileName="ZegamiViewer.Web/Pages/Shared/_CookieConsentPartial.cshtml" />
+      <File FileName="ZegamiViewer.Web/Pages/_ViewImports.cshtml" />
+      <File FileName="ZegamiViewer.Web/Startup.cs" Line="41" Column="37" />
+      <File FileName="ZegamiViewer.Web/wwwroot/zegami/reports/personnel-language/zeg.xslt" Line="101" Column="18" />
+      <File FileName="ZegamiViewer.Web/wwwroot/zegami/reports/personnel-language/report.js" Line="170" Column="28" />
+      <File FileName="ZegamiViewer.Web/Program.cs" Line="1" Column="1" />
+      <File FileName="ZegamiViewer.Web/wwwroot/report.html" Line="14" Column="1" />
+      <File FileName="ZegamiViewer.Web/wwwroot/css/site.css" Line="56" Column="20" />
+      <File FileName="ZegamiViewer.Web/Pages/PersonnelLanguage.cshtml" Line="11" Column="15" />
+      <File FileName="ZegamiViewer.Web/Pages/Index.cshtml.cs" Line="1" Column="1" />
+      <File FileName="ZegamiViewer.Web/Pages/Error.cshtml" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ZegamiViewer" expanded="True">
+            <Node name="ZegamiViewer.Web" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="PersonnelLanguage.cshtml" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="images" expanded="True">
+                  <Node name="service-seals" expanded="True">
+                    <Node name="ng" expanded="True" />
+                    <Node name="sg" expanded="True" />
+                    <Node name="w" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

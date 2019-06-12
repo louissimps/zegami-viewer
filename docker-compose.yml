@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  zegamiviewer.web:
+    image: ${DOCKER_REGISTRY-}zegamiviewer
+    build:
+      context: .
+      dockerfile: ZegamiViewer.Web/Dockerfile
